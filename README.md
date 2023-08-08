@@ -1,4 +1,3 @@
 # landing-page
-add
-commit
-push
+Odin project landing page
+Practicing flexbox
