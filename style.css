@@ -1,0 +1,32 @@
+body{
+    margin:0;
+}
+
+
+
+.header{
+    display: flex;
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-size: 24px;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 1px 200px;
+}
+
+.header-logo{
+    font-weight: 700;
+}
+.header-links{
+    list-style-type: none;
+    display: flex;
+    gap:20px;
+    font-size: 28px;
+}
+
+.header a{
+    text-decoration: none;
+    color:#aaacb1;
+    font-size: 18px;
+}
+
